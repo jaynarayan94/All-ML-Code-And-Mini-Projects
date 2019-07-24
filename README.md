@@ -1,3 +1,3 @@
 # All-ML-Code-Mini-Projects
 
-List Of all my Regression & Classification Python & R Codes
+All of my Regression & Classification Code in Python & R
